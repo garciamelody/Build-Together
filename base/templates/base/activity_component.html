@@ -1,0 +1,21 @@
+<div class="activities">
+    <div class="activities__header">
+        <h2>New Rooms</h2>
+    </div>
+    {% for room in new_rooms %}
+    <div class="activities__box">
+        <div class="activities__boxHeader roomListRoom__header">
+            <a href="{% url 'room' room.id %}" class="roomListRoom__author">
+                <div class="avatar avatar--small ">
+                    <img src="{{room.host.avatar.url}}" />
+                </div>
+                <p>
+                    {{room.name}}
+                    <span>@{{room.host.username}}</span>
+                    <span>{{room.created|timesince}} ago</span>
+                </p>
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>
