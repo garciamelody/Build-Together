@@ -4,7 +4,7 @@ Build Together is an app for finding others to build projects with who share the
 
 ## Browse Topics
 Users can browse a list of topics, making it simple to find others to work with who have similar interests/goals.
-<img src="https://user-images.githubusercontent.com/102616304/215814384-bf094f49-7e81-41e5-8341-9de44d4ee894.gif" width="100%">
+![7dcecbd41cf30ed635e8ca82f5c2c93ba6dee069](https://user-images.githubusercontent.com/102616304/215818901-c84fdd2a-02b7-4ae4-83f4-e011f5730307.gif)
 
 ## Host A Room
 Users can host a room with a topic of their choosing and chat with others interested in working together.
