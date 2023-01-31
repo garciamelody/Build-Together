@@ -1,24 +1,26 @@
 # Build Together
-
 Build Together is an app for finding others to build projects with who share the same interests. 
 
 ## Browse Topics
 Users can browse a list of topics, making it simple to find others to work with who have similar interests/goals.
-![7dcecbd41cf30ed635e8ca82f5c2c93ba6dee069](https://user-images.githubusercontent.com/102616304/215818901-c84fdd2a-02b7-4ae4-83f4-e011f5730307.gif)
+![dd3205784509285c2e1313cd11eff375a012926a](https://user-images.githubusercontent.com/102616304/215821028-590f3fa9-f632-41d8-9f5c-eb68bc91d407.gif)
+
 
 ## Host A Room
 Users can host a room with a topic of their choosing and chat with others interested in working together.
-<img src="https://user-images.githubusercontent.com/102616304/215814363-6b029929-97b1-4073-ab26-5f841848547f.gif" width="1100">
+<img src="https://user-images.githubusercontent.com/102616304/215814363-6b029929-97b1-4073-ab26-5f841848547f.gif" width="800">
 
 ## Messaging
 Users can participate in a room of their choosing and join the conversation with others.
-![messaging](https://user-images.githubusercontent.com/102616304/215814662-b7e4c6c4-e380-45ef-b9ff-8659b091b596.gif)
+![d2c86d3e9368499200e7faa16724c0240e750124](https://user-images.githubusercontent.com/102616304/215821285-0a94311b-cd0a-43c2-afa9-2223aedf7430.gif)
+
 
 
 ## Browse more rooms from your favorite hosts
 Each user has a profile page that displays their profile info along with rooms that they are currently hosting, making it simple to participate in 
 rooms with your favorite hosts.
-![profiles](https://user-images.githubusercontent.com/102616304/215814474-65f13a96-d8dd-4380-b094-b44ba1e1098e.gif)
+![5b45c93dcd801ecb017b48b5dfb25d7923e764a2](https://user-images.githubusercontent.com/102616304/215820778-b74828d7-1623-4e49-bbc9-809eb3b78af8.gif)
+
 
 
 ## What's it Made with?
