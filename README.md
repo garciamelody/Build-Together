@@ -25,7 +25,7 @@ rooms with your favorite hosts.
 
 ## What's it Made with?
 
-This app was built using Python and Django.
+This app was built using Python, Django, JavaScript, HTML, and CSS.
 
 ## Why Django?
 
